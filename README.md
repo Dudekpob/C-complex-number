@@ -1,2 +1,2 @@
-# C-imaginary-number
-Library for imaginary number 
+# C-complex-number
+Library for calculation complex number using structures
